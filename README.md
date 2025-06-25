@@ -22,7 +22,7 @@ Helping newcomers understand and join the validator space.
 
 ## ✍️ Writing  
 I write guides and articles about Web3 and crypto projects:  
-📰 [Medium](#) *(https://medium.com/@saadmarwah0610)*
+📰 [Medium](#) *(https://medium.com/@Airdrop_0610)*
 
 ---
 
@@ -49,7 +49,7 @@ I write guides and articles about Web3 and crypto projects:
 - 🐱 [GitHub](#) *(https://github.com/SohibunNaum/)*
 - 💬 [Telegram](https://t.me/airdrop0610)
 - 🐦 [Twitter](https://twitter.com/airdrop_0610)
-- ✍️ [Medium](https://medium.com/@saadmarwah0610)
+- ✍️ [Medium](https://medium.com/@Airdrop_0610)
 - 🎧 Discord: `saadudin06`
 
 ---
